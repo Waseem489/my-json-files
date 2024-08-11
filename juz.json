@@ -12,8 +12,9 @@
             "verse": "verse_141",
             "name": "Al-Baqara",
             "nameAr": "البقرة"
-
-        }
+        },
+        "startPage": 1,
+        "endPage": 21
     },
     {
         "index": "02",
@@ -28,7 +29,9 @@
             "verse": "verse_252",
             "name": "Al-Baqara",
             "nameAr": "البقرة"
-        }
+        },
+        "startPage": 22,
+        "endPage": 41
     },
     {
         "index": "03",
@@ -43,7 +46,9 @@
             "verse": "verse_92",
             "name": "Aal-Imran",
             "nameAr": "آل عمران"
-        }
+        },
+        "startPage": 42,
+        "endPage": 61
     },
     {
         "index": "04",
@@ -58,7 +63,9 @@
             "verse": "verse_23",
             "name": "An-Nisaa'",
             "nameAr": "النساء"
-        }
+        },
+        "startPage": 62,
+        "endPage": 81
     },
     {
         "index": "05",
@@ -73,7 +80,9 @@
             "verse": "verse_147",
             "name": "An-Nisaa'",
             "nameAr": "النساء"
-        }
+        },
+        "startPage": 82,
+        "endPage": 101
     },
     {
         "index": "06",
@@ -88,7 +97,9 @@
             "verse": "verse_81",
             "name": "Al-Ma'ida",
             "nameAr": "المائدة"
-        }
+        },
+        "startPage": 102,
+        "endPage": 121
     },
     {
         "index": "07",
@@ -103,7 +114,9 @@
             "verse": "verse_110",
             "name": "Al-An'am",
             "nameAr": "الأنعام"
-        }
+        },
+        "startPage": 122,
+        "endPage": 141
     },
     {
         "index": "08",
@@ -118,7 +131,9 @@
             "verse": "verse_87",
             "name": "Al-A'raf",
             "nameAr": "الأعراف"
-        }
+        },
+        "startPage": 142,
+        "endPage": 161
     },
     {
         "index": "09",
@@ -133,7 +148,9 @@
             "verse": "verse_40",
             "name": "Al-Anfal",
             "nameAr": "الأنفال"
-        }
+        },
+        "startPage": 162,
+        "endPage": 181
     },
     {
         "index": "10",
@@ -148,7 +165,9 @@
             "verse": "verse_92",
             "name": "Al-Tawba",
             "nameAr": "التوبة"
-        }
+        },
+        "startPage": 182,
+        "endPage": 201
     },
     {
         "index": "11",
@@ -163,7 +182,9 @@
             "verse": "verse_5",
             "name": "Hud",
             "nameAr": "هود"
-        }
+        },
+        "startPage": 202,
+        "endPage": 221
     },
     {
         "index": "12",
@@ -178,7 +199,9 @@
             "verse": "verse_52",
             "name": "Yusuf",
             "nameAr": "يوسف"
-        }
+        },
+        "startPage": 222,
+        "endPage": 241
     },
     {
         "index": "13",
@@ -193,7 +216,9 @@
             "verse": "verse_52",
             "name": "Ibrahim",
             "nameAr": "ابراهيم"
-        }
+        },
+        "startPage": 242,
+        "endPage": 261
     },
     {
         "index": "14",
@@ -208,8 +233,9 @@
             "verse": "verse_128",
             "name": "An-Nahl",
             "nameAr": "النحل"
-
-        }
+        },
+        "startPage": 262,
+        "endPage": 281
     },
     {
         "index": "15",
@@ -224,7 +250,9 @@
             "verse": "verse_74",
             "name": "Al-Kahf",
             "nameAr": "الكهف"
-        }
+        },
+        "startPage": 282,
+        "endPage": 301
     },
     {
         "index": "16",
@@ -239,7 +267,9 @@
             "verse": "verse_135",
             "name": "Ta-Ha",
             "nameAr": "طه"
-        }
+        },
+        "startPage": 302,
+        "endPage": 321
     },
     {
         "index": "17",
@@ -254,7 +284,9 @@
             "verse": "verse_78",
             "name": "Al-Hajj",
             "nameAr": "الحج"
-        }
+        },
+        "startPage": 322,
+        "endPage": 341
     },
     {
         "index": "18",
@@ -269,7 +301,9 @@
             "verse": "verse_20",
             "name": "Al-Furqan",
             "nameAr": "الفرقان"
-        }
+        },
+        "startPage": 342,
+        "endPage": 361
     },
     {
         "index": "19",
@@ -284,7 +318,9 @@
             "verse": "verse_55",
             "name": "An-Naml",
             "nameAr": "النمل"
-        }
+        },
+        "startPage": 362,
+        "endPage": 381
     },
     {
         "index": "20",
@@ -299,7 +335,9 @@
             "verse": "verse_45",
             "name": "Al-Ankabut",
             "nameAr": "العنكبوت"
-        }
+        },
+        "startPage": 382,
+        "endPage": 401
     },
     {
         "index": "21",
@@ -314,7 +352,9 @@
             "verse": "verse_30",
             "name": "Al-Ahzab",
             "nameAr": "الأحزاب"
-        }
+        },
+        "startPage": 402,
+        "endPage": 421
     },
     {
         "index": "22",
@@ -329,7 +369,9 @@
             "verse": "verse_27",
             "name": "Yasin",
             "nameAr": "ياسين"
-        }
+        },
+        "startPage": 422,
+        "endPage": 441
     },
     {
         "index": "23",
@@ -344,7 +386,9 @@
             "verse": "verse_31",
             "name": "Az-Zumar",
             "nameAr": "الزمر"
-        }
+        },
+        "startPage": 442,
+        "endPage": 461
     },
     {
         "index": "24",
@@ -359,7 +403,9 @@
             "verse": "verse_46",
             "name": "Fussilat",
             "nameAr": "فصلت"
-        }
+        },
+        "startPage": 462,
+        "endPage": 481
     },
     {
         "index": "25",
@@ -374,7 +420,9 @@
             "verse": "verse_37",
             "name": "Al-Jathiya",
             "nameAr": "الجاثية"
-        }
+        },
+        "startPage": 482,
+        "endPage": 501
     },
     {
         "index": "26",
@@ -389,7 +437,9 @@
             "verse": "verse_30",
             "name": "Az-Zariyat",
             "nameAr": "الذاريات"
-        }
+        },
+        "startPage": 502,
+        "endPage": 521
     },
     {
         "index": "27",
@@ -404,7 +454,9 @@
             "verse": "verse_29",
             "name": "Al-Hadid",
             "nameAr": "الحديد"
-        }
+        },
+        "startPage": 522,
+        "endPage": 541
     },
     {
         "index": "28",
@@ -419,7 +471,9 @@
             "verse": "verse_12",
             "name": "At-Tahrim",
             "nameAr": "التحريم"
-        }
+        },
+        "startPage": 542,
+        "endPage": 561
     },
     {
         "index": "29",
@@ -434,7 +488,9 @@
             "verse": "verse_50",
             "name": "Al-Mursalat",
             "nameAr": "المرسلات"
-        }
+        },
+        "startPage": 562,
+        "endPage": 581
     },
     {
         "index": "30",
@@ -449,6 +505,8 @@
             "verse": "verse_6",
             "name": "An-Nas",
             "nameAr": "الناس"
-        }
+        },
+        "startPage": 582,
+        "endPage": 604
     }
 ]
