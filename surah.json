@@ -1,7 +1,7 @@
 [
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 7,
         "revelationOrder": 5,
         "rukus": 1,
@@ -24,7 +24,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 286,
         "revelationOrder": 87,
         "rukus": 40,
@@ -61,7 +61,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 200,
         "revelationOrder": 89,
         "rukus": 20,
@@ -91,7 +91,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 176,
         "revelationOrder": 92,
         "rukus": 24,
@@ -128,7 +128,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 120,
         "revelationOrder": 112,
         "rukus": 16,
@@ -158,7 +158,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 165,
         "revelationOrder": 55,
         "rukus": 20,
@@ -188,7 +188,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 206,
         "revelationOrder": 39,
         "rukus": 24,
@@ -218,7 +218,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 75,
         "revelationOrder": 88,
         "rukus": 10,
@@ -248,7 +248,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 129,
         "revelationOrder": 113,
         "rukus": 16,
@@ -278,7 +278,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 109,
         "revelationOrder": 51,
         "rukus": 11,
@@ -301,7 +301,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 123,
         "revelationOrder": 52,
         "rukus": 10,
@@ -331,7 +331,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 111,
         "revelationOrder": 53,
         "rukus": 12,
@@ -361,7 +361,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 43,
         "revelationOrder": 96,
         "rukus": 6,
@@ -384,7 +384,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 52,
         "revelationOrder": 72,
         "rukus": 7,
@@ -407,7 +407,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 99,
         "revelationOrder": 54,
         "rukus": 6,
@@ -430,7 +430,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 128,
         "revelationOrder": 70,
         "rukus": 16,
@@ -453,7 +453,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 111,
         "revelationOrder": 50,
         "rukus": 12,
@@ -476,7 +476,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 110,
         "revelationOrder": 69,
         "rukus": 12,
@@ -506,7 +506,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 98,
         "revelationOrder": 44,
         "rukus": 6,
@@ -529,7 +529,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 135,
         "revelationOrder": 45,
         "rukus": 8,
@@ -552,7 +552,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 112,
         "revelationOrder": 73,
         "rukus": 7,
@@ -575,7 +575,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 78,
         "revelationOrder": 103,
         "rukus": 10,
@@ -598,7 +598,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 118,
         "revelationOrder": 74,
         "rukus": 6,
@@ -621,7 +621,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 64,
         "revelationOrder": 102,
         "rukus": 9,
@@ -644,7 +644,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 77,
         "revelationOrder": 42,
         "rukus": 6,
@@ -674,7 +674,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 227,
         "revelationOrder": 47,
         "rukus": 11,
@@ -697,7 +697,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 93,
         "revelationOrder": 48,
         "rukus": 7,
@@ -727,7 +727,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 88,
         "revelationOrder": 49,
         "rukus": 8,
@@ -750,7 +750,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 69,
         "revelationOrder": 85,
         "rukus": 7,
@@ -780,7 +780,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 60,
         "revelationOrder": 84,
         "rukus": 6,
@@ -803,7 +803,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 34,
         "revelationOrder": 57,
         "rukus": 3,
@@ -826,7 +826,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 30,
         "revelationOrder": 75,
         "rukus": 3,
@@ -849,7 +849,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 73,
         "revelationOrder": 90,
         "rukus": 9,
@@ -879,7 +879,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 54,
         "revelationOrder": 58,
         "rukus": 6,
@@ -902,7 +902,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 45,
         "revelationOrder": 43,
         "rukus": 5,
@@ -925,7 +925,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 83,
         "revelationOrder": 41,
         "rukus": 5,
@@ -955,7 +955,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 182,
         "revelationOrder": 56,
         "rukus": 5,
@@ -978,7 +978,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 88,
         "revelationOrder": 38,
         "rukus": 5,
@@ -1001,7 +1001,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 75,
         "revelationOrder": 59,
         "rukus": 8,
@@ -1031,7 +1031,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 85,
         "revelationOrder": 60,
         "rukus": 9,
@@ -1054,7 +1054,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 54,
         "revelationOrder": 61,
         "rukus": 6,
@@ -1084,7 +1084,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 53,
         "revelationOrder": 62,
         "rukus": 5,
@@ -1107,7 +1107,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 89,
         "revelationOrder": 63,
         "rukus": 7,
@@ -1130,7 +1130,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 59,
         "revelationOrder": 64,
         "rukus": 3,
@@ -1153,7 +1153,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 37,
         "revelationOrder": 65,
         "rukus": 4,
@@ -1176,7 +1176,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 35,
         "revelationOrder": 66,
         "rukus": 4,
@@ -1199,7 +1199,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 38,
         "revelationOrder": 95,
         "rukus": 4,
@@ -1222,7 +1222,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 29,
         "revelationOrder": 111,
         "rukus": 4,
@@ -1245,7 +1245,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 18,
         "revelationOrder": 106,
         "rukus": 2,
@@ -1268,7 +1268,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 45,
         "revelationOrder": 34,
         "rukus": 3,
@@ -1291,7 +1291,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 60,
         "revelationOrder": 67,
         "rukus": 3,
@@ -1321,7 +1321,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 49,
         "revelationOrder": 76,
         "rukus": 2,
@@ -1344,7 +1344,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 62,
         "revelationOrder": 23,
         "rukus": 3,
@@ -1367,7 +1367,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 55,
         "revelationOrder": 37,
         "rukus": 3,
@@ -1390,7 +1390,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 78,
         "revelationOrder": 97,
         "rukus": 3,
@@ -1413,7 +1413,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 96,
         "revelationOrder": 46,
         "rukus": 3,
@@ -1436,7 +1436,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 29,
         "revelationOrder": 94,
         "rukus": 4,
@@ -1459,7 +1459,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 22,
         "revelationOrder": 105,
         "rukus": 3,
@@ -1482,7 +1482,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 24,
         "revelationOrder": 101,
         "rukus": 3,
@@ -1505,7 +1505,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 13,
         "revelationOrder": 91,
         "rukus": 2,
@@ -1528,7 +1528,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 14,
         "revelationOrder": 109,
         "rukus": 2,
@@ -1551,7 +1551,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 11,
         "revelationOrder": 110,
         "rukus": 2,
@@ -1574,7 +1574,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 11,
         "revelationOrder": 104,
         "rukus": 2,
@@ -1597,7 +1597,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 18,
         "revelationOrder": 108,
         "rukus": 2,
@@ -1620,7 +1620,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 12,
         "revelationOrder": 99,
         "rukus": 2,
@@ -1643,7 +1643,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 12,
         "revelationOrder": 107,
         "rukus": 2,
@@ -1666,7 +1666,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 30,
         "revelationOrder": 77,
         "rukus": 2,
@@ -1689,7 +1689,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 52,
         "revelationOrder": 2,
         "rukus": 2,
@@ -1712,7 +1712,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 52,
         "revelationOrder": 78,
         "rukus": 2,
@@ -1735,7 +1735,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 44,
         "revelationOrder": 79,
         "rukus": 2,
@@ -1758,7 +1758,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 28,
         "revelationOrder": 71,
         "rukus": 2,
@@ -1781,7 +1781,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 28,
         "revelationOrder": 40,
         "rukus": 2,
@@ -1804,7 +1804,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 20,
         "revelationOrder": 3,
         "rukus": 2,
@@ -1827,7 +1827,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 56,
         "revelationOrder": 4,
         "rukus": 2,
@@ -1850,7 +1850,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 40,
         "revelationOrder": 31,
         "rukus": 2,
@@ -1873,7 +1873,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 31,
         "revelationOrder": 98,
         "rukus": 2,
@@ -1896,7 +1896,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 50,
         "revelationOrder": 33,
         "rukus": 2,
@@ -1919,7 +1919,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 40,
         "revelationOrder": 80,
         "rukus": 2,
@@ -1942,7 +1942,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 46,
         "revelationOrder": 81,
         "rukus": 2,
@@ -1965,7 +1965,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 42,
         "revelationOrder": 24,
         "rukus": 1,
@@ -1988,7 +1988,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 29,
         "revelationOrder": 7,
         "rukus": 1,
@@ -2011,7 +2011,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 19,
         "revelationOrder": 82,
         "rukus": 1,
@@ -2034,7 +2034,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 36,
         "revelationOrder": 86,
         "rukus": 1,
@@ -2057,7 +2057,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 25,
         "revelationOrder": 83,
         "rukus": 1,
@@ -2080,7 +2080,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 22,
         "revelationOrder": 27,
         "rukus": 1,
@@ -2103,7 +2103,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 17,
         "revelationOrder": 36,
         "rukus": 1,
@@ -2126,7 +2126,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 19,
         "revelationOrder": 8,
         "rukus": 1,
@@ -2149,7 +2149,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 26,
         "revelationOrder": 68,
         "rukus": 1,
@@ -2172,7 +2172,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 30,
         "revelationOrder": 10,
         "rukus": 1,
@@ -2195,7 +2195,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 20,
         "revelationOrder": 35,
         "rukus": 1,
@@ -2218,7 +2218,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 15,
         "revelationOrder": 26,
         "rukus": 1,
@@ -2241,7 +2241,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 21,
         "revelationOrder": 9,
         "rukus": 1,
@@ -2264,7 +2264,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 11,
         "revelationOrder": 11,
         "rukus": 1,
@@ -2287,7 +2287,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 8,
         "revelationOrder": 12,
         "rukus": 1,
@@ -2310,7 +2310,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 8,
         "revelationOrder": 28,
         "rukus": 1,
@@ -2333,7 +2333,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 19,
         "revelationOrder": 1,
         "rukus": 1,
@@ -2356,7 +2356,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 5,
         "revelationOrder": 25,
         "rukus": 1,
@@ -2379,7 +2379,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 8,
         "revelationOrder": 100,
         "rukus": 1,
@@ -2402,7 +2402,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 8,
         "revelationOrder": 93,
         "rukus": 1,
@@ -2425,7 +2425,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 11,
         "revelationOrder": 14,
         "rukus": 1,
@@ -2448,7 +2448,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 11,
         "revelationOrder": 30,
         "rukus": 1,
@@ -2471,7 +2471,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 8,
         "revelationOrder": 16,
         "rukus": 1,
@@ -2494,7 +2494,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 3,
         "revelationOrder": 13,
         "rukus": 1,
@@ -2517,7 +2517,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 9,
         "revelationOrder": 32,
         "rukus": 1,
@@ -2540,7 +2540,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 5,
         "revelationOrder": 19,
         "rukus": 1,
@@ -2563,7 +2563,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 4,
         "revelationOrder": 29,
         "rukus": 1,
@@ -2586,7 +2586,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 7,
         "revelationOrder": 17,
         "rukus": 1,
@@ -2609,7 +2609,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 3,
         "revelationOrder": 15,
         "rukus": 1,
@@ -2632,7 +2632,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 6,
         "revelationOrder": 18,
         "rukus": 1,
@@ -2655,7 +2655,7 @@
     },
     {
         "place": "Medina",
-        "type": "Madaniyah",
+        "type": "مدنية",
         "count": 3,
         "revelationOrder": 114,
         "rukus": 1,
@@ -2678,7 +2678,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 5,
         "revelationOrder": 6,
         "rukus": 1,
@@ -2701,7 +2701,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 4,
         "revelationOrder": 22,
         "rukus": 1,
@@ -2724,7 +2724,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 5,
         "revelationOrder": 20,
         "rukus": 1,
@@ -2747,7 +2747,7 @@
     },
     {
         "place": "Mecca",
-        "type": "Makkiyah",
+        "type": "مكية",
         "count": 6,
         "revelationOrder": 21,
         "rukus": 1,
